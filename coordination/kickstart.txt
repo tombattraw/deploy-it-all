@@ -1,0 +1,9 @@
+Dynamic:
+    Install mirror
+    Disk partition - file system and size
+    User accounts, passwords, and keys
+
+Static:
+    Nix
+    openssh-server
+    Post script to enable ssh
